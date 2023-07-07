@@ -88,7 +88,7 @@ export default function Header() {
                             const searchTerm = searchValue.toLowerCase();
                             const name = item.nume.toLowerCase();
 
-                            return searchTerm && name.startsWith(searchTerm) && name !== searchTerm;
+                            return searchTerm && name.includes(searchTerm) && name !== searchTerm;
                         })
                             .map((item) => (
                                 <div className="dropdown-item" key={item.id} onClick={() => onSearch(item.nume)}>
