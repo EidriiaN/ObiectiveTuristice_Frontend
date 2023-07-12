@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/obiective-turistice/static/css/main.589eea83.css",
-    "main.js": "/obiective-turistice/static/js/main.0502fc7c.js",
+    "main.js": "/obiective-turistice/static/js/main.db16e084.js",
     "static/media/munti.jpg": "/obiective-turistice/static/media/munti.45bfa094275cf645cf09.jpg",
     "static/media/3.jpg": "/obiective-turistice/static/media/3.5d9ba720143608c7a840.jpg",
     "static/media/sphinx-bucegi-romania.jpg": "/obiective-turistice/static/media/sphinx-bucegi-romania.0475f7967c050461163f.jpg",
@@ -38,10 +38,10 @@
     "static/media/arrow_forward_FILL0_wght400_GRAD0_opsz48.svg": "/obiective-turistice/static/media/arrow_forward_FILL0_wght400_GRAD0_opsz48.0f7934f9af17c676862e7169fd926a31.svg",
     "static/media/arrow_back_FILL0_wght400_GRAD0_opsz48.svg": "/obiective-turistice/static/media/arrow_back_FILL0_wght400_GRAD0_opsz48.29fa7ae3716720eddbde78ad0f53ed62.svg",
     "main.589eea83.css.map": "/obiective-turistice/static/css/main.589eea83.css.map",
-    "main.0502fc7c.js.map": "/obiective-turistice/static/js/main.0502fc7c.js.map"
+    "main.db16e084.js.map": "/obiective-turistice/static/js/main.db16e084.js.map"
   },
   "entrypoints": [
     "static/css/main.589eea83.css",
-    "static/js/main.0502fc7c.js"
+    "static/js/main.db16e084.js"
   ]
 }
