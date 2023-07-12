@@ -35,10 +35,11 @@ app.use(bodyParser.json());
 
 const db = mysql.createConnection({
     // Crearea unei conexiuni la baza de date MySQL
-    user: "root",
-    host: "localhost",
-    password: "",
-    database: "examen_bd",
+    user: "if0_34602571",
+    host: "sql209.infinityfree.com",
+    password: "KwG3LgrZusp",
+    database: "if0_34602571_express_mysql",
+    port: "3306"
 });
 
 app.listen(3001, () => {
